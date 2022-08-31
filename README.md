@@ -11,7 +11,7 @@ This Case Study explores the Australian Housing Market and what factors are affe
 ## General Information
 - Linear, Ridge, Lasso Regression model on Australian Housing Market.
 - To understand which factors are affecting the price of homes in Australia
-- 
+
 ## Conclusion
 These are the factors that affect the price of houses
 1. ground Living Area.
